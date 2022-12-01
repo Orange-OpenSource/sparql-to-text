@@ -62,7 +62,7 @@ The models are published under the licence Apache 2.0, as the models are taken f
 ```bibtex
 @inproceedings{lecorve2022sparql2text,
   title={SPARQL-to-Text Question Generation for Knowledge-Based Conversational Applications},
-  author={Lecorv'e, Gw'enol'e and Veyret, Morgan and Brabant, Quentin and Rojas-Barahona, Lina M.},
+  author={Lecorv\'e, Gw\'enol\'e and Veyret, Morgan and Brabant, Quentin and Rojas-Barahona, Lina M.},
   journal={Proceedings of the Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP)},
   year={2022}
 }
