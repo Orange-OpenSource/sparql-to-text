@@ -23,6 +23,9 @@ How many European countries have more than 10 million inhabitants?
 This repository contains:
 
 * **5 prepared and homogenized for the SPARQL-to-Text question generation task:**
+
+  > ⚠ **_NOTE:_**  Datasets are now stored on https://huggingface.co/OrangeInnov.
+  
   - Non conversational datasets
     - SimpleQuestions (from https://github.com/askplatypus/wikidata-simplequestions)
     - ParaQA (from https://github.com/barshana-banerjee/ParaQA)
