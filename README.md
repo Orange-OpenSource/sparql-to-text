@@ -35,6 +35,7 @@ This repository contains:
     - WebNLQ-QA (derived from https://gitlab.com/shimorina/webnlg-dataset/-/tree/master/release_v3.0)
 
 * **A T5 and BART models trained on all datasets**
+  > ⚠ **_NOTE:_**  Models are now stored on https://huggingface.co/OrangeInnov.
   - *Base version* from 🤗 HuggingFace (https://huggingface.co/t5-base and https://huggingface.co/facebook/bart-base)
   - Input format is `<context> Conversational context alternating user and system utterances </context> <query> Your SPARQL query </query> <answer> Expected answer(s) </answer>`, eg:
   ```xml
